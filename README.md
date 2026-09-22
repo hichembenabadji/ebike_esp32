@@ -26,19 +26,18 @@ to be read at a glance from the handlebar in full daylight.
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
-2. [Hardware Gallery](#hardware-gallery)
-3. [Key Features](#key-features)
-4. [Screen Layout](#screen-layout)
-5. [System Architecture](#system-architecture)
-6. [Hardware](#hardware)
-7. [Software Stack](#software-stack)
-8. [Project Structure](#project-structure)
-9. [Build and Flash](#build-and-flash)
-10. [Configuration](#configuration)
-11. [Connecting Real Sensors](#connecting-real-sensors)
-12. [Custom Fonts](#custom-fonts)
-13. [Troubleshooting](#troubleshooting)
-14. [License](#license)
+2. [Key Features](#key-features)
+3. [Screen Layout](#screen-layout)
+4. [System Architecture](#system-architecture)
+5. [Hardware](#hardware)
+6. [Software Stack](#software-stack)
+7. [Project Structure](#project-structure)
+8. [Build and Flash](#build-and-flash)
+9. [Configuration](#configuration)
+10. [Connecting Real Sensors](#connecting-real-sensors)
+11. [Custom Fonts](#custom-fonts)
+12. [Troubleshooting](#troubleshooting)
+13. [License](#license)
 
 ---
 
