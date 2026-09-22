@@ -32,3 +32,7 @@
 *.exe
 *.out
 *.app
+
+# Full-resolution photos (4 MB and 37 MB); the README uses the *-web.jpg copies
+images/Pic-01.jpg
+images/Pic-02.jpg
