@@ -14,6 +14,15 @@ to be read at a glance from the handlebar in full daylight.
 
 ---
 
+## Hardware Gallery
+
+| Idle state | High-speed state |
+|:---:|:---:|
+| ![Idle dashboard, 0 km/h, ECO mode](images/Pic-01-web.jpg) | ![Riding dashboard, 51 km/h, TOUR mode, right turn signal](images/Pic-02-web.jpg) |
+| **Pic-01: idle, USB-C powered.** The bike is stopped: the speedometer reads **0 km/h**, the assist mode is **ECO** with one of three level dashes lit, and the battery card shows **83 %** with a full-length green bar and an `OK` status. The trip card reports 17.1 km, the time card 00:39:14 of riding and a 26 km/h average. The five-button command bar (LIGHT, LEFT, RIGHT, WARNING, HORN) is idle in amber. Note the clean black bezel: with a pure-black background the display blends into the frame and only the data glows. | **Pic-02: riding at 51 km/h in TOUR mode.** The green arc has swept past the 45 km/h mark into the red zone, the 72 px digits stay fully legible, and the assist card shows **TOUR** with two level dashes. The **RIGHT** turn signal is active: its icon switches to orange and blinks until it is cancelled from the screen. Battery at **93 %**, trip 16.9 km, ride time 00:38:45, average 26 km/h. |
+
+---
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -53,15 +62,6 @@ The dashboard uses a **high-contrast dark theme** tuned for outdoor use:
 The firmware ships with a **simulation mode** (`DEMO_MODE 1`) that animates speed, trip distance,
 odometer, battery level and assist mode, so the complete interface can be evaluated on the bench
 before any sensor is connected.
-
----
-
-## Hardware Gallery
-
-| Idle state | High-speed state |
-|:---:|:---:|
-| ![Idle dashboard, 0 km/h, ECO mode](images/Pic-01-web.jpg) | ![Riding dashboard, 51 km/h, TOUR mode, right turn signal](images/Pic-02-web.jpg) |
-| **Pic-01: idle, USB-C powered.** The bike is stopped: the speedometer reads **0 km/h**, the assist mode is **ECO** with one of three level dashes lit, and the battery card shows **83 %** with a full-length green bar and an `OK` status. The trip card reports 17.1 km, the time card 00:39:14 of riding and a 26 km/h average. The five-button command bar (LIGHT, LEFT, RIGHT, WARNING, HORN) is idle in amber. Note the clean black bezel: with a pure-black background the display blends into the frame and only the data glows. | **Pic-02: riding at 51 km/h in TOUR mode.** The green arc has swept past the 45 km/h mark into the red zone, the 72 px digits stay fully legible, and the assist card shows **TOUR** with two level dashes. The **RIGHT** turn signal is active: its icon switches to orange and blinks until it is cancelled from the screen. Battery at **93 %**, trip 16.9 km, ride time 00:38:45, average 26 km/h. |
 
 ---
 
